@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { ReadMeAnalyzer } from './analyzer';
 import { formatReport, logMessage, formatProgressBar } from './utils';
 import * as fs from 'fs';
