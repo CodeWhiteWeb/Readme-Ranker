@@ -1,6 +1,6 @@
 {
-  "name": "@CodeWhiteWeb/readme-ranker",
-  "version": "1.0.0",
+  "name": "readme-ranker",
+  "version": "1.0.1",
   "description": "A CLI tool to analyze and rank README files for projects, providing actionable suggestions for improvement.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -35,7 +35,8 @@
   "author": "CodeWhiteWeb",
   "license": "MIT",
   "engines": {
-    "node": ">=14"
+    "node": ">=14",
+    "npm": ">=7"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
