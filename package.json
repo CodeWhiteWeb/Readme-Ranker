@@ -1,5 +1,5 @@
 {
-  "name": "@CodeWhiteWeb/readme-ranker",
+  "name": "@SajagIN/readme-ranker",
   "version": "1.0.2",
   "description": "A CLI tool to analyze and rank README files for projects, providing actionable suggestions for improvement.",
   "main": "dist/index.js",
@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CodeWhiteWeb/Readme-Ranker.git"
+    "url": "https://github.com/SajagIN/Readme-Ranker.git"
   },
-  "homepage": "https://github.com/CodeWhiteWeb/Readme-Ranker#readme",
+  "homepage": "https://github.com/SajagIN/Readme-Ranker#readme",
   "bugs": {
-    "url": "https://github.com/CodeWhiteWeb/Readme-Ranker/issues"
+    "url": "https://github.com/SajagIN/Readme-Ranker/issues"
   },
   "scripts": {
     "build": "tsc",
@@ -32,7 +32,7 @@
     "documentation",
     "quality"
   ],
-  "author": "CodeWhiteWeb",
+  "author": "SajagIN",
   "license": "MIT",
   "engines": {
     "node": ">=14",
